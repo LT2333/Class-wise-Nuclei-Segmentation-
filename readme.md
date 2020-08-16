@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 ```
 
 ### Run Through GUI
-Under UNet-pytorch/GUI run 
+Under root/GUI run 
 <br>
 ```
 $ python3 gui.py
